@@ -18,4 +18,4 @@ either use github which has a very simple process for hosting a web page
 or digital ocean, which is equally pretty simple to set up and both are
 free!
 
--Nora
+view this website at: https://per-sephone.github.io/PSU-Media-Challenge/
